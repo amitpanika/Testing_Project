@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-23T14:44:46 IST" name="Default suite" finished-at="2022-11-23T14:45:00 IST" duration-ms="13719">
+    <groups>
+    </groups>
+    <test started-at="2022-11-23T14:44:46 IST" name="Default test" finished-at="2022-11-23T14:45:00 IST" duration-ms="13719">
+      <class name="com.selenium.test.TestNG1.Confirmation_Alert">
+        <test-method signature="Alert()[pri:0, instance:com.selenium.test.TestNG1.Confirmation_Alert@2f9f7dcf]" started-at="2022-11-23T14:44:46 IST" name="Alert" finished-at="2022-11-23T14:45:00 IST" duration-ms="13677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Alert -->
+      </class> <!-- com.selenium.test.TestNG1.Confirmation_Alert -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
